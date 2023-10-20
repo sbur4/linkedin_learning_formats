@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<car categoty="suv">
+    <!-- comment -->
+    <brand>peugeot</brand>
+    <model>3008</model>
+    <gearbox>automatic</gearbox>
+    <info>
+        <configuration>GT</configuration>
+        <price_from>33135</price_from>
+    </info>
+</car>

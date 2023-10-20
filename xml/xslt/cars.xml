@@ -1,0 +1,25 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "cars.xsl"?>
+<class>
+    <car id="001">
+        <brand>Peugeot</brand>
+        <model>2008</model>
+        <engine>diesel</engine>
+        <configuration>active premium+</configuration>
+        <price>22735</price>
+    </car>
+    <car id="003">
+        <brand>Peugeot</brand>
+        <model>2008</model>
+        <engine>petrol</engine>
+        <configuration>allure premium+</configuration>
+        <price>24335</price>
+    </car>
+    <car id="005">
+        <brand>Peugeot</brand>
+        <model>2008</model>
+        <engine>diesel</engine>
+        <configuration>gt</configuration>
+        <price>27885</price>
+    </car>
+</class>

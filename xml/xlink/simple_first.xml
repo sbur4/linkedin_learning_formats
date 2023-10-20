@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cars xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <car title="Peugeot">
+        <description
+                xlink:type="simple"
+                xlink:href="/images/car_001.jpeg"
+                xlink:show="new">
+            Price from 33135 euro
+        </description>
+    </car>
+</cars>

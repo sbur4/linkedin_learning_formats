@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cars xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <car title="Peugeot">
+            <description>
+            New model 2022
+            </description>
+            <info xlink:type="simple" xlink:href="https://peugeot.com/main.xml#SUVr">
+               More....in main xml
+            </info>
+    </car>
+</cars>

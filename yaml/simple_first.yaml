@@ -1,0 +1,11 @@
+car: peugeot
+model: 3008
+---
+car: citroen
+model: cx5
+---
+car: mercedes-benz
+model: gla 220
+---
+car: subaru
+model: xv

@@ -1,0 +1,60 @@
+# comments in 'yet another markup language'
+# YAML uses space to define something
+# YAML is case-sensitive
+# YAML is language independent
+# Unicode printable characters / data structure / data serialization
+---
+# data types:
+# scalar - numeric(integer/float/boolean) & string
+# single string
+CAR: 'peugeot'
+RANGE: this suv #is a normal string
+MODEL: 3008
+NAME: "peugeot 3008" #it contains double-quotes
+# multi string
+str: >
+  this is a multi-line string it
+  spans more than one
+  line
+str2: |
+  this is a multi-line string it
+  spans more than one
+  line
+# float
+SPEED: 250.00
+# boolean
+DIESEL: false #or true
+GAS: On #or Off
+PETROL: null
+YEAR: ~ #any value
+THULE: non
+---
+# list
+models: [ 208, 2008, 308, 3008, 408, 4008, 508, 5008 ]
+---
+# dictionary - Block styles
+user:
+  firstName: "Boris"
+  lastName: "Johnson"
+  registrationInfo:
+    email: johnsonuk@uk.org
+    pass: 3v3r1B@d!
+# dictionary - Flow styles
+vendor: Boris Johnson
+info: { email: johnsonuk@uk.org , pass: v3r1B@d! }
+hobby: [ bike , travel , jokes ]
+---
+# key-value pair
+car:
+  name: peugeot
+  model: 3008
+---
+# key-value pair
+car: peugeot-3008
+---
+# key-value pair
+car:
+  -peugeot
+  -citroen
+  -subaru
+---

@@ -1,0 +1,17 @@
+{
+  "car": {
+    "brand": "peugeot",
+    "model": "3008",
+    "year": 2022,
+    "speed": 215.0,
+    "4x4": true,
+    "tank": null
+  },
+  "engine": {
+    "type": [
+      "hybrid",
+      "diesel",
+      "petrol"
+    ]
+  }
+}
